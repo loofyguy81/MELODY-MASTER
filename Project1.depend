@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1752306642 source:d:\projects_programming\melody_master_project_cpp\project\main.cpp
+	<iostream>
+	<Windows.h>
+	<conio.h>
+	<mmsystem.h>
+	<string>
+	<iomanip>
+	<vector>
+	<limits>
+
+1748684605 source:d:\projects_programming\melody_master_project_cpp\project\main2.cpp
+	<iostream>
+	<Windows.h>
+	<conio.h>
+	<mmsystem.h>
+	<string>
+	<iomanip>
+	<vector>
+
